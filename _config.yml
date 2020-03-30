@@ -2,6 +2,8 @@
 markdown:         kramdown
 highlighter:      rouge
 
+remote_theme:     fongandrew/hydeout
+
 # Setup
 title:            D8F妙妙屋
 tagline:          'A Personal Blog'
