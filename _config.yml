@@ -9,7 +9,7 @@ title:            D8F妙妙屋
 tagline:          'A Personal Blog'
 description:      'Double8Fun的个人博客'
 url:              https://double8fun.github.io
-baseurl:          '/hydeout'
+baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
